@@ -1,5 +1,7 @@
 # Litetouch5000LCTimeUpdate
-Litetouch 5000LC CCU Time Update Utility - Since the internal clocks are prone to losing track of accurate time
+Litetouch 5000LC CCU Time Update Utility - 
+
+Since the internal clocks for the Litetouch 5000LC are prone to losing track of accurate time (pretty important for scheduling and daylight predictions on the RTOS), I made this utility to update it. Synchs with either local PC clock, or time.nist.gov. - C# with Asynch TCP/IP communications
 
 
  v 0.1
