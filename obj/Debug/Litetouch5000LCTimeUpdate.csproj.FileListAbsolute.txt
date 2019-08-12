@@ -1,0 +1,7 @@
+C:\Users\matt\Documents\Projects\csharp\Litetouch5000LCTimeUpdate\Litetouch5000LCTimeUpdate\bin\Debug\Litetouch5000LCTimeUpdate.exe.config
+C:\Users\matt\Documents\Projects\csharp\Litetouch5000LCTimeUpdate\Litetouch5000LCTimeUpdate\bin\Debug\Litetouch5000LCTimeUpdate.exe
+C:\Users\matt\Documents\Projects\csharp\Litetouch5000LCTimeUpdate\Litetouch5000LCTimeUpdate\bin\Debug\Litetouch5000LCTimeUpdate.pdb
+C:\Users\matt\Documents\Projects\csharp\Litetouch5000LCTimeUpdate\Litetouch5000LCTimeUpdate\obj\Debug\Litetouch5000LCTimeUpdate.csprojAssemblyReference.cache
+C:\Users\matt\Documents\Projects\csharp\Litetouch5000LCTimeUpdate\Litetouch5000LCTimeUpdate\obj\Debug\Litetouch5000LCTimeUpdate.csproj.CoreCompileInputs.cache
+C:\Users\matt\Documents\Projects\csharp\Litetouch5000LCTimeUpdate\Litetouch5000LCTimeUpdate\obj\Debug\Litetouch5000LCTimeUpdate.exe
+C:\Users\matt\Documents\Projects\csharp\Litetouch5000LCTimeUpdate\Litetouch5000LCTimeUpdate\obj\Debug\Litetouch5000LCTimeUpdate.pdb
