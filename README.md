@@ -25,17 +25,31 @@ Litetouch Com Port is 10001  and uses TCP protocol
 ### 5000LC UART Protocol Commands (Carriage return = end of command)
 
 > Command:	Get Clock
+
 > Format:	R,DGCLK
+
 > Return:	R,RQRES,DGCLK,yyyymmddhhmmss
+
 > yyyy – year
+
 > mm – month
+
 > dd – day
+
 > hh – hours
+
 > mm – minutes
+
 > ss - seconds
 
+
 > Description:	Requests the date-time.
+
 > Command:	Set Clock
+
 > Format:	R,DSCLK,yyyymmddhhmmss	see Get Clock for details
+
 > Return:	none
+
 > Description:	Sets the clock with the specified date-time.
+
